@@ -1,5 +1,7 @@
 # TS_Fig12
 Figure TS.12 shows land-related changes relative to the 1850-1900 as a function of global warming levels. 
+![Figure TS.12](IPCC_AR6_WGI_TS_Figure_12.png?raw=true)
+
 Figure subpanels
 
 The figure has six panels, with input data provided for all panels in subdirectories named Extremes,  ModelSnow/sncbin and WaterCyclePanels.
