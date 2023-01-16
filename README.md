@@ -6,17 +6,12 @@ The figure has six panels, with input data provided for all panels in subdirecto
 
 List of data provided
 This dataset contains:
-    - Relative frequency and intensity changes of 1-in-10- and 1-in-50-year extreme daily heat (TXx) in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
-
-    - Relative frequency and intensity changes of 1-in-10- and 1-in-50-year extreme daily precipitation rates (Rx1day) in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
-
-    - Relative frequency and intensity changes of 1-in-10-year drought events in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
-
-    - Monthly NH snow cover extent changes (in %), dependent on the GWL (with respect to 1850-1900), for CMIP6 models (historical + ScenarioMIP), with respect to snow cover extent at 0°C GWL (1850-1900)
-
-    - Average precipitable water (annual mean), precipitation rate (annual mean + interannual variability), and runoff (annual mean + interannual variability) over tropical land (|latitude|<30°), in the CMIP6 models that reach +5°C GWL in SSP5-8.5.
-
-    - Average precipitable water (annual mean), precipitation rate (annual mean + interannual variability), and runoff (annual mean + interannual variability) over tropical land (|latitude|>30°), in the CMIP6 models that reach +5°C GWL in SSP5-8.5.
+- Relative frequency and intensity changes of 1-in-10- and 1-in-50-year extreme daily heat (TXx) in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
+- Relative frequency and intensity changes of 1-in-10- and 1-in-50-year extreme daily precipitation rates (Rx1day) in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
+- Relative frequency and intensity changes of 1-in-10-year drought events in CMIP6 models (ScenarioMIP) with respect to 1850-1900. Medians and 5, 17, 83, 95 percentiles.
+- Monthly NH snow cover extent changes (in %), dependent on the GWL (with respect to 1850-1900), for CMIP6 models (historical + ScenarioMIP), with respect to snow cover extent at 0°C GWL (1850-1900)
+- Average precipitable water (annual mean), precipitation rate (annual mean + interannual variability), and runoff (annual mean + interannual variability) over tropical land (|latitude|<30°), in the CMIP6 models that reach +5°C GWL in SSP5-8.5.
+- Average precipitable water (annual mean), precipitation rate (annual mean + interannual variability), and runoff (annual mean + interannual variability) over tropical land (|latitude|>30°), in the CMIP6 models that reach +5°C GWL in SSP5-8.5.
 
 Data provided in relation to figure
 
