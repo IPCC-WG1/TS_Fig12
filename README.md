@@ -67,4 +67,4 @@ The Python script ModelSnow/AR6TS2-Snow.py reads the csv data sheets and plots t
 Panel e:
 The Python script WaterCyclePanels/TS12-WaterCycle.py reads the json data sheets and plots the panel.
 
-All the cvs data above are avaialable in the CEDA catalogue here:  
+All the cvs data above are available in the CEDA catalogue here:  
